@@ -17,6 +17,6 @@ readFile(join(__dirName, 'text1.txt'), "utf-8",(err, data) => {
 
 
 
-// console.log(math(40,10,5));
+console.log(math(40,10,5));
 
 
