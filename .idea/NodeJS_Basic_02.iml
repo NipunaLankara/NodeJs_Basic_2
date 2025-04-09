@@ -4,6 +4,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/01" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/Build Node Server" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/File Handling" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/File Upload" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/Http Module" type="java-resource" />
