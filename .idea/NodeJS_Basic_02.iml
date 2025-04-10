@@ -8,6 +8,9 @@
       <sourceFolder url="file://$MODULE_DIR$/File Handling" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/File Upload" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/Http Module" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/Event Emitter" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/Nodemailer" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/MySQL" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
