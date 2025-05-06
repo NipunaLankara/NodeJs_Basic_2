@@ -52,7 +52,7 @@ const runQueries = async () => {
         // Close connection
         await db.end();
     } catch (err) {
-        console.error("❌ DB Error:", err);
+        console.error(" DB Error:", err);
     }
 };
 
